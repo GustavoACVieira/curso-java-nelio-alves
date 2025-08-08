@@ -1,33 +1,21 @@
 # IntelliJ IDEA
 .idea/
 *.iml
+
+# Compiled class files
+*.class
+
+# Output folder
 out/
 
-# Sistema
+# Logs
+*.log
+
+# MacOS / Windows system files
 .DS_Store
 Thumbs.db
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
+# Maven / Gradle cache (se usar)
+target/
+build/
+.gradle/

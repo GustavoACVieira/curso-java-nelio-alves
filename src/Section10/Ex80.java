@@ -10,7 +10,7 @@ public class Ex80 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        //preenchendo vetor
+        //preenchendo array
         double[] valor = new double[5];
         double sum = 0.0;
         for (int i = 0; i < valor.length; i++) {
