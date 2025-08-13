@@ -18,6 +18,8 @@ Todos os códigos foram implementados utilizando Java no IntelliJ IDEA.
 
 - Section 10 → Conteúdo e exercícios da seção 10
 
+- Section 11 → Conteúdo e exercícios da seção 11
+
 \- Tecnologias utilizadas (Até o momento)
 
 * Java 21 (JDK 21)
