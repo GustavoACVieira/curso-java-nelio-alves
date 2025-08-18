@@ -8,17 +8,22 @@ Todos os códigos foram implementados utilizando Java no IntelliJ IDEA.
 
 \- Estrutura
 
-- Recapitulando→ Exercícios iniciais de revisão
+- Recapitulando→ Exercícios básicos do JAVA
 
-- Section 7 → Conteúdo e exercícios da seção 7
 
-- Section 8 → Conteúdo e exercícios da seção 8
+- Section 7 → Conteúdo e exercícios sobre alguns tópicos básicos do java.
 
-- Section 9 → Conteúdo e exercícios da seção 9
 
-- Section 10 → Conteúdo e exercícios da seção 10
+- Section 8 → Conteúdo e exercícios introdutórios sobre POO.
 
-- Section 11 → Conteúdo e exercícios da seção 11
+
+- Section 9 → Conteúdo e exercícios sobre construtores, sobrecarga, encapsulamento.
+
+
+- Section 10 → Conteúdo e exercícios listas, arrays e comportamento de memória.
+
+
+- Section 11 → Conteúdo e exercícios sobre data-hora.
 
 \- Tecnologias utilizadas (Até o momento)
 
