@@ -1,6 +1,9 @@
 ﻿![Banner](https://img.shields.io/badge/Curso%20Java%20Nélio%20Alves-%23007396?style=for-the-badge&logo=java&logoColor=white)
 
+!!Curso Pausado!!
+
 Repositório com os exercícios resolvidos durante o curso de Java do professor [Nélio Alves](https://www.udemy.com/course/java-curso-completo/).
+
 
 📂 Estrutura
 
